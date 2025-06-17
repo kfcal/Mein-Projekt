@@ -1,0 +1,9 @@
+# Ignoriere .env-Datein
+.env*
+
+# Whitelisten
+!.env.sample
+
+# Outputdatein
+*.csv
+*.jpg
