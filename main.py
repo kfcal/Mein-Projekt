@@ -3,5 +3,5 @@ def erste_funktion():
 
 def wichtige_funktion():
     erster_teil = "Das ist eine wichtige Information."
-    zweiter_teil = "Noch mehr wichtige Information"
+    zweiter_teil = "Wichtige Datanbank Information"
     print(erster_teil + ' ' + zweiter_teil)
